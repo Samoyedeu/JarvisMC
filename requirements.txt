@@ -1,0 +1,4 @@
+discord.py==2.5.2
+fuzzywuzzy==0.18.0
+mcrcon==0.7.0
+spacy==3.8.5
