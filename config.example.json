@@ -1,0 +1,10 @@
+{
+  "TOKEN": "your-discord-bot-token",
+  "RCON_HOST": "localhost",
+  "RCON_PORT": "your-rcon-port",
+  "RCON_PASSWORD": "your-rcon-password",
+  "SERVER_DIR": "path/to/server",
+  "START_SCRIPT": "path/to/start/script",
+  "BACKUP_DEST": "path/to/backups",
+  "AUTHORIZED_USER_ID": "your-discord-id"
+}
